@@ -43,7 +43,7 @@
                         </v-row>
                     </v-col>
                     <v-col lg="6" cols="6">
-                        <v-img src="https://i.postimg.cc/FR0XLz6Z/img1.png" width="400"></v-img>
+                        <v-img src="https://i.postimg.cc/ZYgk7Z4S/img12.png" width="400"></v-img>
                     </v-col>
                 </v-row>
             </section>
