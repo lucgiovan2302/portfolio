@@ -78,7 +78,7 @@
                     </v-row>
                 </v-img>
             </section>
-            <section class="educaion py-6">
+            <section class="education py-6">
                 <v-container>
                     <h4 class="display-2 text-center">Education</h4>
                     <v-row class="py-8">
@@ -139,7 +139,7 @@
                 </v-img>
 
             </section>
-            <section class="portfolio">
+            <section id="anchor-name" class="portfolio">
                 <h4 class="display-2 text-center">Portfolio</h4>
                 <v-slide-group
                         class="pa-4"
