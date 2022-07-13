@@ -4,10 +4,10 @@
             <v-subheader><h1 class="green--text">Lucien<span class="pink--text">.Portfolio</span></h1></v-subheader>
             <v-tabs center-active right background-color="transparent" active-class="active-tab">
                 <v-tab href="#home">Accueil</v-tab>
-                <v-tab>A propos</v-tab>
-                <v-tab>Portfolio</v-tab>
-                <v-tab>Blog</v-tab>
-                <v-tab>Contact</v-tab>
+                <v-tab href="#about">A propos</v-tab>
+                <v-tab href="#portfolio">Portfolio</v-tab>
+                <v-tab href="#blog">Blog</v-tab>
+                <v-tab href="#contact">Contact</v-tab>
             </v-tabs>
             <v-btn large color="green" class="white--text ml-10">Envoyer moi des emails</v-btn>
         </v-app-bar>
